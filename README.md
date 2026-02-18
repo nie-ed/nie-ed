@@ -2,7 +2,7 @@
 
 I am a student at the University of Helsinki, studying a bachelor's degree in computer science. From my studies I have experience of multiple different programming languages, web development, testing, databases and mathematics. From my previous work I have gathered experience in software development in an agile Scrum team, back-end development, and unit and integration testing.
 
-My projects in GitHub include an AI for Chess using a Minimax algorithm, a Tetris game and various Full Stack exercises and web development with a SQL database.
+My projects in GitHub include an AI for Chess using a Minimax algorithm, a Tetris game, various Full Stack exercises and web development projects with SQL databases.
 
 ### Tools and technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
